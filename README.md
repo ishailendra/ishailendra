@@ -1,14 +1,21 @@
-- 👋 Hi, I’m Shailendra Singh
--  I am a Java Spring Boot developer with 3+ years of industry experience in developing web applications. I have professional hands-on experience in Core Java, J2EE, Spring Boot, 
-Spring Batch. In frontend technology, I have working experience on Angular 6 and ReactTS and have worked on some small projects.
-- Outside my professional life, I love to blog and share my technical knowledge. I also love gardening and playing video games.
-- 👀 I’m interested in 3D modelling and designing and I am working on to learn these for interest and hobby.
-- 🌱 I’m currently learning ReactJS, Spring Security and Spring Microservices.
-- 💞️ I’m interested in collaborating on Spring framework and or ReactJS based open-source projects
-- 📫 I am available on twitter @ishailendras. You can also drop me a mail from my website https://shailendra.dev
-Blog - https://blog.shailendra.dev
+# 💫 About Me:
+Hi there, I’m Shailendra Sing! 👋<br><br>With over 6 years of experience in the IT industry, I specialize in Spring Boot, Java, and Spring Batch. I also have hands-on experience with Angular and ReactJS.<br><br>I’m proud to hold an Azure Fundamentals certification and am currently diving deeper into Angular while preparing for my AWS certification. 🚀<br><br>When I’m not coding, I love sharing my knowledge through my tech blog: https://techsphere.dev. Check it out for insights on the latest trends and tips in the tech world! 📝<br><br>What I’m Working On<br><br>💡Enhancing my Angular skills<br>💡Preparing for AWS certification<br>💡Exploring new technologies and frameworks<br><br>Fun Facts<br>💡 I enjoy solving complex problems and turning ideas into reality.<br>🎮 In my free time, I love gaming and doing gardening.<br>🌱 Always eager to learn and grow in the ever-evolving tech landscape.
 
-<!---
-ishailendra/ishailendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imshailendra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11491219) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ishailendras) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ishailendra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ishailendra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishailendra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ishailendra&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
